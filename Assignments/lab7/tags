@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Sudoku	Sudoku.py	/^class Sudoku:$/;"	c
+SudokuCommandError	Sudoku.py	/^class SudokuCommandError(SudokuError):$/;"	c
+SudokuError	Sudoku.py	/^class SudokuError(Exception):$/;"	c
+SudokuMoveError	Sudoku.py	/^class SudokuMoveError(SudokuError):$/;"	c
+__init__	Sudoku.py	/^    def __init__(self):$/;"	m	class:Sudoku
+exp_x_over_x	lab7_bc.py	/^def exp_x_over_x(x):$/;"	f
+fib	lab7_bc.py	/^def fib(n):$/;"	f
+load	Sudoku.py	/^    def load(self, filename):$/;"	m	class:Sudoku
+move	Sudoku.py	/^    def move(self, row, col, val):$/;"	m	class:Sudoku
+myNewSum	lab7_bc.py	/^def myNewSum(*nums):$/;"	f
+myOpReduce	lab7_bc.py	/^def myOpReduce(lst, **op):$/;"	f
+mySum	lab7_bc.py	/^def mySum(*nums):$/;"	f
+s	Sudoku.py	/^    s = Sudoku()$/;"	v	class:Sudoku
+save	Sudoku.py	/^    def save(self, filename):$/;"	m	class:Sudoku
+show	Sudoku.py	/^    def show(self):$/;"	m	class:Sudoku
+solve	Sudoku.py	/^    def solve(self):$/;"	m	class:Sudoku
+sum_of_key_values	lab7_bc.py	/^def sum_of_key_values(dict, key1, key2):$/;"	f
+sum_of_key_values	test.py	/^def sum_of_key_values(dict, key1, key2):$/;"	f
+test_myNewSum	lab7_b_tests.py	/^def test_myNewSum():$/;"	f
+test_myOpReduce	lab7_b_tests.py	/^def test_myOpReduce():$/;"	f
+test_mySum	lab7_b_tests.py	/^def test_mySum():$/;"	f
+undo	Sudoku.py	/^    def undo(self):$/;"	m	class:Sudoku
